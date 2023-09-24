@@ -1,2 +1,2 @@
 # Kaggle
-This Repository Contain all my kaggle competetion codes
+This Repository Contain all my kaggle competition codes
